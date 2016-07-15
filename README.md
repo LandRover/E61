@@ -2,7 +2,7 @@
 
 Temperature:
  * Eric's:
-   * Product: https://www.chriscoffee.com/E61-Group-Digital-Thermometer-Adapter-p/sss-04.htm
+   * Product: https://www.chriscoffee.com/E61-Group-Digital-Thermometer-Adapter-p/sss-04.htm (109$)
    * Files: http://users.rcn.com/erics/
      * About the Product - Digital Thermometer & Adaptor for E-61 Groupheads: http://users.rcn.com/erics/DigThermAdptr7.pdf
      * The build: http://users.rcn.com/erics/Digital%20Thermometer%20Build.pdf
