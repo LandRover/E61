@@ -12,6 +12,6 @@
    * [BellaBarista Top View](https://www.bellabarista.co.uk/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/r/o/rocketappartamentointernal.jpg)
  * Gauges:
    * [Lelit Dual Pressure Gauge - PL60 / PL62](http://www.1st-line.com/store/pc/catalog/Lelit/MC593_detail.jpg)
-   * 
+   * https://www.espressoparts.com/search?q=faema+pfw+gauge
  * Forum:
    * [Testing Brew Pressure](http://www.home-barista.com/espresso-machines/testing-brew-pressure-t153.html)
