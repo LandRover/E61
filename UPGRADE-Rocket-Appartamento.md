@@ -13,5 +13,9 @@
  * Gauges:
    * [Lelit Dual Pressure Gauge - PL60 / PL62](http://www.1st-line.com/store/pc/catalog/Lelit/MC593_detail.jpg)
    * https://www.espressoparts.com/search?q=faema+pfw+gauge
+   * [E61 Digital Thermometer](https://www.chriscoffee.com/E61-Group-Digital-Thermometer-Adapter-p/sss-04.htm)
+ * E61 Mushroom
+   * [E61 Stainless Steel Mushroom (80mm)](https://www.chriscoffee.com/products/e61-stainless-steel-mushroom)
+   * [E61 Mushroom O-Ring](https://www.chriscoffee.com/products/e61-mushroom-o-ring)
  * Forum:
    * [Testing Brew Pressure](http://www.home-barista.com/espresso-machines/testing-brew-pressure-t153.html)
