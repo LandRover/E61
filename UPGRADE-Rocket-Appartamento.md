@@ -10,8 +10,6 @@
    * Appartamento [top](http://www.rimprezza.de/WebRoot/Store18/Shops/63241512/MediaGallery/Appartamento/S-IMG_3553.JPG) | [Back](http://www.rimprezza.de/WebRoot/Store18/Shops/63241512/MediaGallery/Appartamento/S-IMG_3557.JPG) | [Side](http://www.rimprezza.de/WebRoot/Store18/Shops/63241512/MediaGallery/Appartamento/S-IMG_3558.JPG)
    * [Appartamento Internals](http://cdn.shopify.com/s/files/1/0216/1626/files/Rocket-Appartamento-interior_grande.jpg)
    * [BellaBarista Top View](https://www.bellabarista.co.uk/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/r/o/rocketappartamentointernal.jpg)
- * Service
-   * [E61 Group Servicing](http://coffeetimex.wikidot.com/e61-group-servicing)
  * Gauges:
    * [Lelit Dual Pressure Gauge - PL60 / PL62](http://www.1st-line.com/store/pc/catalog/Lelit/MC593_detail.jpg)
    * https://www.espressoparts.com/search?q=faema+pfw+gauge
