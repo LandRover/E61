@@ -11,3 +11,6 @@ Temperature:
  
  * Service
    * [E61 Group Servicing](http://coffeetimex.wikidot.com/e61-group-servicing)
+
+ * Grinder
+   * Fiorenzato F64 Pro
